@@ -1,4 +1,4 @@
-# Shreya — Product-company data interview curriculum (Fresher)
+# My Interview Preparation Guide
 
 This is a self-study curriculum for entry-level Data Analyst, Product Analyst, BI Analyst and Junior Data Engineer roles. It is designed to teach concepts progressively, with distinct exercises, worked solutions, concept checks and timed mock tests.
 
