@@ -47,4 +47,3 @@ This curriculum is designed to build strong fundamentals, practical coding skill
 5. Practise the timed mock interviews.
 6. Revise weak areas before attempting the final assessments.
 
-**Goal:** Build the skills and confidence required to clear fresher-level data and analytics interviews.
