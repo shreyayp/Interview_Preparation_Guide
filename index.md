@@ -112,6 +112,8 @@ These folders contain project-specific documentation. Use them when preparing pr
 
 ## PDF library
 
+[Browse all PDFs on GitHub](https://github.com/shreyayp/Interview_Preparation_Guide/tree/main/PDFs)
+
 All PDFs are collected in the [`https://github.com/shreyayp/Interview_Preparation_Guide/tree/main/PDFs`](PDFs/) folder. Use the paired PDF links in the curriculum tables above, or open the [Complete Handbook with External Practice](PDFs/Complete_Handbook_With_External_Practice.pdf) for the combined guide.
 
 ---
